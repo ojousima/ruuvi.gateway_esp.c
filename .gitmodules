@@ -1,3 +1,9 @@
 [submodule "components/esp32-wifi-manager"]
 	path = components/esp32-wifi-manager
 	url = https://github.com/ruuvi/esp32-wifi-manager
+[submodule "components/ruuvi.endpoints.c"]
+	path = components/ruuvi.endpoints.c
+	url = https://github.com/ruuvi/ruuvi.endpoints.c
+[submodule "components/ruuvi.boards.c"]
+	path = components/ruuvi.boards.c
+	url = https://github.com/ruuvi/ruuvi.boards.c.git
